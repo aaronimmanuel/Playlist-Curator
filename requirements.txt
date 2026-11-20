@@ -1,0 +1,17 @@
+# Playlist Curator - Python 3.10, 3.11 or 3.12 recommended.
+#
+# Only the packages this project imports directly are listed. Their own
+# dependencies (starlette, anyio, scipy, pyarrow, tornado, ...) are chosen by
+# pip so that they stay compatible with each other. Do NOT add or pin them by
+# hand (for example starlette), because streamlit needs a specific range.
+#
+# scikit-learn is capped below 1.9 on purpose: from 1.9 on, SVC(probability=True)
+# (used for the SVM's confidence scores) is deprecated and prints warnings.
+
+numpy>=1.26,<3
+pandas>=2.1,<4
+scikit-learn>=1.4,<1.9
+matplotlib>=3.8,<4
+joblib>=1.3,<2
+torch>=2.3,<3
+streamlit>=1.40,<2

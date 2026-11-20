@@ -1,0 +1,188 @@
+id,artist,track,genres,playlist,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+5dEyjGoDvm4anASD9kAXEZ,Aversions Crown,Paradigm,"['australian metal', 'blackened deathcore', 'brutal deathcore', 'deathcore', 'melodic metalcore', 'progressive deathcore']",Deathcore,0.407,0.937,5,-3.375,1,0.0692,0.000662,0.000123,0.119,0.223,119.976
+2tjb7JbJj7sl4ykpIeAMoA,NEEDTOBREATHE,Brother - Acoustic,"['ccm', 'christian alternative rock', 'christian indie', 'christian music', 'folk-pop', 'indiecoustica', 'neo mellow', 'pop rock', 'worship']",Acoustic Hits,0.386,0.561,9,-5.879,1,0.0324,0.806,0.0,0.11,0.416,78.884
+1RWAsPQhpizSGmO8YWmS8M,Manuel Galvin,Searching Blues,[],Acoustic Blues,0.687,0.249,9,-14.112,0,0.0338,0.837,0.0033,0.132,0.471,116.921
+5Nn2Dj7OQsGL6pgQ9iIzPp,RJD2,Ghostwriter,"['alternative hip hop', 'big beat', 'electronica', 'jazztronica', 'ninja', 'nu jazz', 'turntablism']",Retro Pop,0.747,0.68,1,-6.187,1,0.0346,0.0107,0.803,0.0964,0.594,93.804
+7CY9oHo6eHtiaFOl0aQ0pT,Joel Hoekstra’s 13,Hard to Say Goodbye,"['melodic hard rock', 'modern hard rock', 'nwocr']",Hard Rock,0.433,0.885,6,-3.897,0,0.0618,0.00427,3.55e-06,0.214,0.493,123.104
+0skJx6IOESP4iDf33bBBq9,The Jesus and Mary Chain,Taste of Cindy,"['alternative rock', 'art rock', 'new wave', 'noise pop', 'nu gaze', 'post-punk', 'punk', 'rock', 'scottish indie', 'shoegaze', 'uk post-punk']",Shoegaze Classics,0.18,0.905,11,-2.767,1,0.0453,0.000146,0.831,0.327,0.552,138.02
+5nBMAMLHpdnBn7mVXcT8fl,Orgy,Karma Kastles,"['alternative metal', 'electronic rock', 'industrial metal', 'industrial rock', 'nu metal', 'rap rock']",Hard Rock,0.503,0.906,8,-4.627,1,0.0538,0.000553,0.000128,0.127,0.723,151.001
+4rNqlRwYCCcVUv37ZLmMTY,Modern Baseball,Intersection,"['alternative emo', 'emo', 'philly indie', 'pop punk']",Lo-fi Indie,0.815,0.252,0,-10.852,1,0.0537,0.319,8.59e-05,0.0832,0.579,133.5
+6i7pokV2JiF1et71olScGO,Kelly Joe Phelps,Lead Me On,"['country blues', 'modern blues']",Acoustic Blues,0.345,0.307,9,-13.97,1,0.031,0.834,0.000239,0.101,0.483,176.666
+3P7LQAgPN5Q3o2C0GOg8hn,Killitorous,Married with Children,"['canadian death metal', 'deathgrind', 'technical death metal']",Deathcore,0.401,0.989,5,-3.144,1,0.165,1.06e-05,0.926,0.0771,0.103,125.011
+1YPsvTzKTMsQjrdC88CRcT,José James,You Know What It Do,"['belgian modern jazz', 'contemporary vocal jazz', 'funk', 'indie jazz', 'indie soul', 'neo soul', 'soul', 'vocal jazz']",Retro Pop,0.799,0.926,1,-4.941,1,0.0392,0.0177,0.00588,0.0808,0.966,145.946
+6jtUOVRO4p09Z7E35ERRL7,AC/DC,Demon Fire,"['australian rock', 'hard rock', 'rock']",Hard Rock,0.521,0.881,9,-5.309,1,0.0387,4.93e-06,0.0114,0.141,0.564,160.026
+7zUf7gPC7vYpVuN9pNuXRj,Opeth,To Bid You Farewell,"['alternative metal', 'metal', 'progressive death metal', 'progressive metal', 'rock', 'swedish metal', 'swedish progressive metal']",Metal Ballads,0.387,0.314,2,-11.956,1,0.0298,0.45,0.445,0.15,0.193,75.148
+78PKCefXwDLbl4FVO1Pjzh,Ozzy Osbourne,Dreamer,"['album rock', 'birmingham metal', 'hard rock', 'metal', 'rock']",Metal Ballads,0.493,0.636,1,-7.408,1,0.0256,0.0629,2.49e-06,0.0921,0.279,79.419
+7KPZwV0b7aFQXhIPahLJdZ,blackwave.,Bittersweet Baby,['belgian hip hop'],Jazz Rap,0.69,0.665,6,-6.963,0,0.0746,0.597,0.0,0.606,0.423,88.018
+2AjhXtZ0qU4XW8k9ZrNAnD,The Acacia Strain,Solace and Serenity,"['deathcore', 'djent', 'melodic metalcore', 'metalcore']",Deathcore,0.523,0.982,0,-4.795,1,0.0962,3.47e-05,0.00126,0.095,0.123,121.994
+6GXl3ADX2Lw5JaOSk620j2,Al Stewart,On the Border,"['album rock', 'art rock', 'classic rock', 'classic uk pop', 'country rock', 'folk', 'folk rock', 'mellow gold', 'soft rock', 'symphonic rock']",Yacht Rock,0.477,0.642,2,-12.427,1,0.0331,0.0571,2.02e-05,0.0767,0.729,98.418
+3EsYB7kiB7JsLvP3tHuHij,Matt Maltese,madhouse,"['indie anthem-folk', 'indie pop']",Lo-fi Indie,0.644,0.533,10,-8.421,1,0.0499,0.599,2.87e-06,0.143,0.653,156.988
+08pCnq3MdYsbEjubAWBdCt,Ryan Montbleau,Ships in the Night,"['deep new americana', 'indie folk', 'jam band', 'modern folk rock']",Acoustic Blues,0.599,0.125,10,-14.472,0,0.0557,0.93,1.57e-06,0.0811,0.405,120.392
+6ydetmqRfhXbLsCX09SeBV,Deathbeds AU,Enough Isn't Enough,['australian metalcore'],Deathcore,0.374,0.982,10,-3.753,0,0.145,0.00113,6.87e-05,0.311,0.0945,178.013
+36iweZ2gloGM9uSmdDMNT9,VEXED,Fake,['uk metalcore'],Deathcore,0.413,0.994,5,-3.621,1,0.171,0.00116,3.36e-06,0.286,0.0424,124.993
+3CLsHRghmz6Bi75xbEthjx,Serj Tankian,Elasticity,"['alternative metal', 'nu metal']",Hard Rock,0.464,0.987,7,-2.169,1,0.0909,0.00342,0.0,0.0806,0.196,95.015
+02hSTgNi9e9m4X3kYMlkPX,National Nightmare,Witch,[],Hard Rock,0.493,0.937,9,-3.555,0,0.0884,0.0198,0.000216,0.103,0.435,155.179
+0BqIASAFnFG7GBfxmBebMG,Kingdom Come,What Love Can Be,"['album rock', 'german hard rock', 'glam metal', 'hard rock', 'metal']",Metal Ballads,0.297,0.642,10,-7.946,0,0.0384,0.32,1.76e-06,0.1,0.282,126.161
+0Bjm2IaLuaY6ttrj9Bv1Dz,Kassa Overall,Who's on the Playlist,['indie jazz'],Jazz Rap,0.667,0.417,5,-10.732,1,0.047,0.666,0.00106,0.671,0.329,109.954
+1vcZBUX6P6FHXzG2mUfmCE,KISS,Hard Luck Woman,"['album rock', 'classic rock', 'glam rock', 'hard rock', 'metal', 'rock']",Metal Ballads,0.668,0.867,11,-7.594,1,0.033,0.666,0.0,0.22,0.963,124.613
+50dpeks48j0zMECIKVAGUG,Alcest,Autre temps,"['atmospheric black metal', 'blackgaze', 'french black metal', 'french metal', 'french shoegaze', 'post-black metal', 'post-metal', 'shoegaze']",Shoegaze Classics,0.24,0.548,1,-8.378,0,0.0325,0.00607,0.875,0.0941,0.128,127.337
+7kum3I7Lkrgzs4npdmWszD,Vice Beats,That Love - Radio Version,[],Jazz Rap,0.846,0.725,5,-6.803,0,0.0934,0.361,0.000406,0.0752,0.814,95.011
+1w73E5RFnn02GBW4iZHuD6,Distant,Hellmouth,"['deathcore', 'progressive deathcore', 'slamming deathcore']",Deathcore,0.406,0.974,2,-4.508,1,0.112,0.000179,0.803,0.201,0.116,115.074
+2KylN9C0wNbzLgZNTG9oiU,my bloody valentine,When You Sleep,"['alternative rock', 'art rock', 'dream pop', 'noise pop', 'nu gaze', 'rock', 'shoegaze']",Shoegaze Classics,0.399,0.866,6,-9.72,1,0.0558,3.43e-05,0.738,0.0785,0.125,128.864
+37pKTyMwalomKCZjxTc2QZ,Cocteau Twins,Cherry-coloured Funk,"['alternative rock', 'art pop', 'art rock', 'dream pop', 'ethereal wave', 'melancholia', 'new wave', 'scottish indie', 'shoegaze']",Shoegaze Classics,0.49,0.652,2,-5.813,1,0.0274,0.00196,6.24e-05,0.0991,0.339,90.085
+3PQDxrFsZnJPo2C0QGsTTE,Song Sung,Telling Tales,[],Shoegaze Classics,0.425,0.555,0,-11.806,1,0.0287,0.0262,0.284,0.206,0.247,108.991
+3BINArUJhtdRH2n176nipN,Paloma Faith,Stone Cold Sober,"['british soul', 'dance pop', 'electropop', 'europop', 'neo soul', 'tropical house']",Retro Pop,0.566,0.927,4,-1.887,0,0.0693,0.259,0.0,0.385,0.836,105.161
+35onQjC0Rb2BISF0xkJCMW,CABAL,Drag Me Down (feat. Jamie Hails),"['blackened deathcore', 'danish hardcore', 'danish metal', 'deathcore', 'progressive deathcore']",Deathcore,0.544,0.959,7,-5.517,1,0.141,0.000109,0.0,0.0717,0.176,117.967
+7j74lucZ59vqN67Ipe2ZcY,Daryl Hall & John Oates,Maneater,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",Yacht Rock,0.724,0.498,11,-13.083,0,0.0423,0.0405,8.56e-05,0.0761,0.823,88.825
+0hoRmVUp5cZ1empu0nSHU8,Brandi Carlile,Every Time I Hear That Song,"['acoustic pop', 'folk', 'indie folk', 'lilith', 'modern folk rock', 'neo mellow', 'new americana', 'pop rock', 'stomp and holler']",Acoustic Hits,0.577,0.53,7,-6.749,1,0.0312,0.544,3.29e-06,0.103,0.22,85.471
+6CHMU1qHbO1Yt43Cj7Voad,Aversions Crown,Born in the Gutter,"['australian metal', 'blackened deathcore', 'brutal deathcore', 'deathcore', 'melodic metalcore', 'progressive deathcore']",Deathcore,0.382,0.994,3,-3.904,1,0.225,0.00191,0.0,0.393,0.0962,135.076
+3TOSmvd8z9ytPEuNidy2TL,Jacquard Looms,MOTH,[],Lo-fi Indie,0.678,0.467,1,-11.192,1,0.0375,0.656,0.003,0.356,0.187,109.974
+7aoQKm7L9RGg5VxYitUkEG,Liz Lawrence,California Screaming,['neo-singer-songwriter'],Lo-fi Indie,0.609,0.796,9,-8.157,1,0.0331,0.0186,0.921,0.626,0.819,155.046
+4xBHZ2Mr0gCdFYXrPZuYXO,System Of A Down,Lonely Day,"['alternative metal', 'nu metal', 'rap metal']",Metal Ballads,0.458,0.783,8,-3.226,0,0.0322,0.346,6.14e-06,0.13,0.224,113.072
+5l1MfVlvwAiiLHjbhL7vUO,The Dead Daisies,Like No Other 2021,"['hard rock', 'modern hard rock', 'nwocr']",Hard Rock,0.491,0.961,1,-5.361,1,0.259,9.58e-05,9.79e-05,0.335,0.5,102.022
+0FMMLKHb74VB0H5u2fP6xo,Jazz Liberatorz,"Ease My Mind - Feat. Tre Hardson, Fat Lip & Omni","['hip hop', 'jazz rap']",Jazz Rap,0.69,0.567,7,-10.875,0,0.311,0.599,9.2e-05,0.116,0.609,96.002
+3nBzTBoIImT1KsbLS0BNvY,Scruffpuppie,Ego,['lo-fi indie'],Lo-fi Indie,0.455,0.187,0,-9.97,1,0.0251,0.623,7.83e-05,0.105,0.0425,78.205
+7KX65PC1UZuImsUInThbav,Michael Kiwanuka,Cold Little Heart - Radio Edit,"['british soul', 'funk', 'neo soul', 'psychedelic soul', 'soul']",Acoustic Hits,0.629,0.58,7,-6.208,0,0.0278,0.357,0.000353,0.436,0.655,110.264
+7INi4pMPG4IE0Smx5y4KVf,Philip Bailey,Easy Lover,['yacht rock'],Yacht Rock,0.749,0.699,1,-13.108,1,0.0371,0.0674,0.00192,0.0763,0.935,128.904
+3hhbDnFUb2bicI2df6VurK,Leon Bridges,River,"['modern blues', 'soul']",Acoustic Hits,0.635,0.184,8,-10.785,1,0.0456,0.665,0.0,0.146,0.177,128.424
+4Uiw0Sl9yskBaC6P4DcdVD,Deftones,Be Quiet and Drive (Far Away),"['alternative metal', 'nu metal', 'rap metal', 'rock', 'sacramento indie']",Shoegaze Classics,0.206,0.965,1,-5.116,1,0.079,9.91e-06,0.827,0.367,0.168,92.615
+0ikmhbH2wPx0iFayhraSWp,Vance Joy,Lay It on Me - Acoustic,"['folk-pop', 'modern rock', 'pop', 'pop rock']",Acoustic Hits,0.483,0.49,5,-4.736,1,0.0318,0.768,1.2e-06,0.112,0.43,137.606
+3vYxoh9Y7L5Tdr0mhaAaUu,De La Soul,Breakadawn,"['alternative hip hop', 'east coast hip hop', 'golden age hip hop', 'hardcore hip hop', 'hip hop', 'jazz rap', 'rap']",Jazz Rap,0.839,0.533,2,-12.416,1,0.291,0.0197,0.00104,0.108,0.522,95.895
+6QhXQOpyYvbpdbyjgAqKdY,Simon & Garfunkel,Cecilia,"['classic rock', 'folk', 'folk rock', 'melancholia', 'mellow gold', 'rock']",Yacht Rock,0.755,0.876,0,-8.867,1,0.0362,0.357,5.17e-06,0.22,0.954,102.762
+40ABtf917Ghhi2tkQDNOdn,Drop Nineteens,Kick The Tragedy,"['alternative rock', 'american shoegaze', 'boston rock', 'dream pop', 'noise pop', 'nu gaze', 'shoegaze']",Shoegaze Classics,0.414,0.404,5,-14.677,1,0.0293,2.44e-05,0.433,0.121,0.156,102.883
+0qbV4e18lWrTTxlswVoLbI,Metallica,The Unforgiven III,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",Metal Ballads,0.297,0.692,4,-5.625,0,0.0344,0.00196,3.75e-06,0.115,0.103,121.52
+0UWHBhWCIMweUSlvMBgp4Y,Passenger,Hell Or High Water,"['folk-pop', 'neo mellow', 'pop', 'pop rock']",Acoustic Hits,0.338,0.721,4,-5.735,0,0.0587,0.00182,2.03e-05,0.349,0.381,80.774
+4nCekuTPAxUJg8n5druzdZ,CABAL,Bitter Friend (feat. Matt Heafy),"['blackened deathcore', 'danish hardcore', 'danish metal', 'deathcore', 'progressive deathcore']",Deathcore,0.391,0.984,2,-5.468,1,0.116,0.000151,0.0,0.123,0.384,159.954
+0oxYB9GoOIDrdzniNdKC44,Slowdive,When The Sun Hits,"['alternative rock', 'art pop', 'dream pop', 'indie rock', 'nu gaze', 'reading indie', 'shoegaze']",Shoegaze Classics,0.33,0.532,2,-11.764,1,0.0263,0.00101,0.709,0.101,0.218,93.512
+50NxwJPlcjsT7IqFshyuYP,William Elliott Whitmore,Johnny law,"['iowa indie', 'new americana', 'stomp and holler']",Acoustic Blues,0.687,0.322,4,-13.015,1,0.06,0.962,0.0,0.0818,0.312,107.753
+0TQ8ZHFhrbH9I0WRjIzOCQ,Villagers,Nothing Arrived - Live from Spotify London,"['chamber pop', 'indie folk', 'stomp and holler']",Acoustic Hits,0.579,0.415,7,-11.599,1,0.0397,0.929,0.0018,0.671,0.42,102.713
+02vbwgCw4piXoMteswBt5I,De La Soul,Pain,"['alternative hip hop', 'east coast hip hop', 'golden age hip hop', 'hardcore hip hop', 'hip hop', 'jazz rap', 'rap']",Jazz Rap,0.908,0.417,10,-8.244,0,0.255,0.0452,0.0824,0.0895,0.81,104.504
+1mohJoiZgt9E9toX9tdfeZ,Busty and the Bass,Go So Far,['retro soul'],Jazz Rap,0.699,0.566,1,-6.347,1,0.205,0.258,3.56e-06,0.222,0.557,84.989
+08CVVZ9HYOXzPRAIV0w8nq,KALEO,Skinny,"['icelandic indie', 'icelandic rock', 'modern alternative rock', 'modern rock']",Hard Rock,0.484,0.741,2,-5.298,1,0.0411,0.0228,0.000164,0.31,0.137,85.076
+74w8xsos5WzJgXcr1WNmwd,Marwood's Fall,Glory,[],Hard Rock,0.497,0.97,6,-3.796,1,0.119,0.000246,0.0162,0.104,0.359,133.981
+3t6ENVX9LAvCjJaa9m9dqG,Outmayr,FIGHT FIRE WITH FIRE,[],Deathcore,0.44,0.971,2,-5.263,1,0.138,1.82e-05,0.86,0.389,0.124,140.15
+69rFDYwypeey2F9cDEL3da,Vulfpeck,3 on E,"['ann arbor indie', 'funk rock', 'instrumental funk']",Retro Pop,0.782,0.825,11,-8.605,0,0.0436,0.0428,0.378,0.1,0.917,98.273
+4SwhF2yf6cIXOfMXJK2SEc,Koralle,Trick Questions,"['italian jazz fusion', 'lo-fi jazzhop']",Jazz Rap,0.697,0.383,8,-11.464,1,0.481,0.0937,0.0,0.113,0.51,86.84
+7fectUUMiPjZijOJIJaN3S,Pale Saints,Sight of You,"['alternative pop', 'alternative rock', 'c86', 'dream pop', 'dreamgaze', 'noise pop', 'nu gaze', 'shoegaze']",Shoegaze Classics,0.459,0.465,7,-13.564,1,0.0388,0.11,0.259,0.0915,0.117,123.94
+0S3gpZzlT9Hb7CCSV2owX7,Ozzy Osbourne,"Mama, I'm Coming Home","['album rock', 'birmingham metal', 'hard rock', 'metal', 'rock']",Metal Ballads,0.282,0.656,8,-6.557,1,0.0302,0.0105,0.0,0.0892,0.242,139.352
+6WvDSdmAlcO9h2FWtsSYjN,Abiotic,Smoldered,"['brutal deathcore', 'miami metal', 'progressive deathcore', 'technical death metal', 'technical deathcore']",Deathcore,0.261,0.935,1,-10.595,1,0.109,2.26e-05,7.11e-05,0.0743,0.221,143.92
+4CsSN0KzU3bqhkrA7P3kIw,tøm hughes,obvious,[],Lo-fi Indie,0.626,0.287,5,-19.453,0,0.415,0.898,0.0,0.229,0.268,107.815
+3dWNUqrgkQakv9fj5epwPK,Metallica,Mama Said,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",Metal Ballads,0.448,0.504,8,-7.749,0,0.0317,0.0171,0.000849,0.38,0.391,135.254
+4YR6Dextuoc3I8nJ0XgzKI,Kenny Loggins,Footloose,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'new wave pop', 'rock', 'soft rock', 'yacht rock']",Yacht Rock,0.564,0.911,2,-5.39,1,0.0536,0.159,4.36e-05,0.118,0.582,173.938
+3DJiFuwt5t3yYwmn395vvU,Spang Sisters,"Thank You, Will Shortz",[],Lo-fi Indie,0.769,0.342,11,-14.044,0,0.0413,0.395,0.000154,0.136,0.274,104.932
+39fvSzqCGWGeRwgePLwLp8,JC Brooks & The Uptown Sound,Rouse Yourself,"['chicago indie', 'funk']",Retro Pop,0.69,0.488,5,-8.337,1,0.0263,0.115,9.42e-05,0.104,0.402,97.516
+5OwevD2C36VIEPrylSOZEv,Ronnie Atkins,Scorpio,['melodic hard rock'],Hard Rock,0.465,0.979,7,-7.443,1,0.0575,1.08e-05,2.22e-06,0.0917,0.433,137.029
+3jOID4Inp7H2wJod85IfNt,Iron & Wine,Bitter Truth,"['acoustic pop', 'chamber pop', 'indie folk', 'indie pop', 'neo mellow', 'stomp and holler']",Acoustic Hits,0.63,0.482,8,-10.36,1,0.0245,0.708,7.94e-06,0.156,0.656,104.291
+1axeAD1OWMN5lEyQwy4eeS,The Bamboos,I Got Burned,"['bboy', 'funk', 'modern funk']",Retro Pop,0.759,0.738,9,-5.255,0,0.051,0.0435,8.87e-05,0.23,0.771,120.038
+5fMInRpERS8jP2zPz6QyUI,Marc Broussard,Love And Happiness,"['acoustic pop', 'lafayette indie', 'neo mellow']",Acoustic Hits,0.884,0.469,1,-9.852,0,0.0372,0.0269,0.00111,0.073,0.897,94.345
+11BX1F2ao0DQTgW86W6H5B,"Christone ""Kingfish"" Ingram",Hard Times,['modern blues'],Acoustic Blues,0.513,0.377,7,-8.907,1,0.102,0.899,0.00601,0.0943,0.424,203.236
+4o6BgsqLIBViaGVbx5rbRk,Daryl Hall & John Oates,You Make My Dreams (Come True),"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",Yacht Rock,0.751,0.501,5,-12.151,1,0.0551,0.234,0.112,0.0467,0.902,167.057
+5rJbBdz2yN7ZPIPjX70Foq,Danny Kroha,Detroit Blues,[],Acoustic Blues,0.751,0.486,0,-7.8,1,0.0523,0.921,0.0,0.0849,0.928,105.997
+7a5xvCgoD8qFEQmO8Jjvtf,Charles Bradley,The World (Is Going Up In Flames),"['funk', 'soul']",Retro Pop,0.715,0.6,5,-7.728,0,0.0264,0.0714,0.00165,0.0876,0.77,86.989
+1FgQnc7KZLvaB89eWOfQ2R,Peter Case,Bumble Bee,"['alternative country', 'folk', 'roots rock']",Acoustic Blues,0.717,0.245,7,-10.908,0,0.0493,0.665,0.000119,0.385,0.502,83.554
+69HICMmc6nNLucAx3aJX9M,John Denver,Thank God I'm a Country Boy,"['adult standards', 'classic country pop', 'folk', 'folk rock', 'mellow gold', 'soft rock']",Yacht Rock,0.762,0.537,9,-9.58,1,0.0478,0.785,0.000669,0.0551,0.958,105.603
+1EZtB75i7g87yZzJucQKOq,Jamie Lidell,Multiply,"['funk', 'neo soul', 'pop soul']",Retro Pop,0.832,0.593,5,-6.014,0,0.0916,0.148,0.0,0.276,0.729,111.075
+6Gr0nYfH4DpKYrAggRGGZZ,Seasick Steve,Well Well Well,"['blues', 'blues rock', 'country blues', 'modern blues', 'modern blues rock', 'texas blues']",Acoustic Blues,0.667,0.0614,4,-23.806,1,0.0465,0.935,0.111,0.1,0.481,79.649
+0y1eaipbcP50xp6WLgJtuv,Black Sabbath,Solitude,"['album rock', 'birmingham metal', 'classic rock', 'hard rock', 'metal', 'rock', 'stoner rock', 'uk doom metal']",Metal Ballads,0.307,0.024,7,-28.353,0,0.0411,0.831,0.758,0.12,0.524,109.732
+1p75lScKo8XQT0niqFRxNx,Ride,Seagull - 2001 Remaster,"['alternative rock', 'britpop', 'dream pop', 'new wave', 'noise pop', 'nu gaze', 'oxford indie', 'shoegaze']",Shoegaze Classics,0.258,0.976,4,-4.1,0,0.0907,1.11e-05,0.471,0.488,0.241,139.99
+5DhBr3Zhpa0XUmVKMMGdcm,Red Fang,Arrows,"['alternative metal', 'portland metal', 'sludge metal', 'stoner metal', 'stoner rock']",Hard Rock,0.187,0.913,7,-8.185,1,0.0558,0.224,0.843,0.102,0.344,156.715
+6wlZnTt9jfkR31dXabQ6tO,Kiko,goblin,[],Lo-fi Indie,0.727,0.232,11,-19.045,0,0.379,0.628,0.00852,0.111,0.342,144.918
+3K0nUaDXL7ghUjNYtGyjTE,Jj Thames,Oh Lord,[],Acoustic Blues,0.544,0.197,0,-14.654,1,0.0323,0.947,9.77e-05,0.358,0.251,133.432
+6b8YK9p7IiVESiQ56lmRi8,Quinn Devlin & The Bridge Street Kings,California Wine,[],Retro Pop,0.628,0.814,8,-6.41,1,0.0454,0.362,0.00925,0.118,0.731,125.09
+6BBopbfKX7d4fKFnn4E01A,Saint Asonia,Ghost,"['alternative metal', 'christian rock', 'gymcore', 'nu metal', 'post-grunge', 'rap rock']",Metal Ballads,0.315,0.875,9,-4.709,0,0.0752,0.00194,2.79e-06,0.298,0.142,160.015
+21GwG8Alj5Duat0I0IkE9R,Godsmack,Serenity,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal']",Metal Ballads,0.684,0.659,9,-5.713,1,0.0234,0.027,5.9e-06,0.15,0.319,110.159
+1cyftogE58xHzSgb77zcsn,Stevie Ray Vaughan,Life By The Drop,"['album rock', 'blues', 'blues rock', 'classic rock', 'electric blues', 'instrumental rock', 'modern blues', 'rock', 'texas blues']",Acoustic Blues,0.659,0.163,6,-11.864,0,0.0388,0.766,1.41e-05,0.0735,0.473,95.882
+1bAMwlbkQSpHYQB34VsV6B,crytothemoon,Late Smoke,[],Lo-fi Indie,0.661,0.0187,7,-28.545,1,0.0368,0.944,2.72e-05,0.192,0.254,81.995
+4TJVYq699BO7PagAjXxYhJ,my bloody valentine,Soon,"['alternative rock', 'art rock', 'dream pop', 'noise pop', 'nu gaze', 'rock', 'shoegaze']",Shoegaze Classics,0.431,0.927,6,-9.072,0,0.0432,5.99e-06,0.869,0.42,0.632,109.55
+6TuZrP39RYGqZCej2LJjAZ,Gifted Gambler,How About You,[],Hard Rock,0.475,0.728,1,-10.709,1,0.054,0.00144,0.272,0.117,0.709,160.014
+1SJGHveCOfrS364qHbBAS8,Gregory Porter,Concorde,"['adult standards', 'contemporary vocal jazz', 'jazz pop', 'neo soul', 'soul', 'vocal jazz']",Retro Pop,0.436,0.622,0,-5.67,1,0.0325,0.0615,2.08e-05,0.135,0.311,87.947
+07TnWCHrFkvF61GzJuLVt0,Chicago,Hard to Say I'm Sorry / Get Away - 2006 Remaster,"['adult standards', 'album rock', 'classic rock', 'folk rock', 'mellow gold', 'soft rock', 'yacht rock']",Yacht Rock,0.398,0.57,4,-7.068,1,0.034,0.056,0.00125,0.0606,0.234,140.974
+5NTVafX8dhP3kt0AUQqUbN,my bloody valentine,Soft as Snow (But Warm Inside),"['alternative rock', 'art rock', 'dream pop', 'noise pop', 'nu gaze', 'rock', 'shoegaze']",Shoegaze Classics,0.382,0.909,6,-7.644,1,0.0985,0.000109,0.107,0.172,0.446,88.642
+7BdXRaSlGAzhySfuW3y8h5,Patrick Swayze,"She's Like the Wind (feat. Wendy Fraser) - From ""Dirty Dancing"" Soundtrack",['yacht rock'],Yacht Rock,0.586,0.331,4,-14.677,0,0.0295,0.256,1.67e-05,0.18,0.223,124.915
+1vl66qSV9BlAALu9eANF7J,Piroshka,Everlastingly Yours,[],Shoegaze Classics,0.464,0.769,11,-8.48,1,0.0316,1.49e-05,0.000357,0.213,0.397,120.096
+7279Xzu3rlTXVdtKb5unBA,St. Paul & The Broken Bones,Call Me,"['funk', 'indie folk', 'retro soul', 'soul']",Retro Pop,0.573,0.786,7,-4.354,1,0.0352,0.0634,0.212,0.117,0.612,110.289
+1ynmMEK1fkyiZ6Z6F3ThEt,The J. Geils Band,Centerfold,"['album rock', 'blues rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'mellow gold', 'new wave pop', 'rock', 'roots rock', 'soft rock']",Yacht Rock,0.653,0.677,0,-12.244,1,0.0396,0.249,0.0,0.403,0.888,114.37
+0ROXERrNsGt3O3mXFgjOK2,Motenko,The Thief,[],Retro Pop,0.728,0.604,3,-6.788,1,0.0362,0.278,0.000337,0.11,0.75,76.078
+7b4yGtR0rujvLi5EBfKKJ2,Eddie Money,Take Me Home Tonight,"['album rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'mellow gold', 'new wave pop', 'pop rock', 'rock', 'soft rock']",Yacht Rock,0.608,0.768,1,-9.911,1,0.0364,0.101,1.41e-06,0.0942,0.748,132.699
+4DEzDE4aWQapm3OeOE2HHP,L.A. Rats,I’ve Been Everywhere,[],Hard Rock,0.618,0.966,7,-4.832,1,0.0679,0.000528,0.682,0.674,0.55,112.019
+1KVmkJwGJqHWQkb1xg1zkg,bdrmm,Gush,"['bedroom pop', 'chamber psych', 'garage psych', 'hull indie']",Lo-fi Indie,0.574,0.564,9,-6.453,1,0.0307,0.0133,0.737,0.1,0.749,147.974
+3yR8cAdli5Ohn3dUlS1PgV,DIIV,Under the Sun,"['brooklyn indie', 'chillwave', 'dream pop', 'garage psych', 'indie garage rock', 'indie rock', 'indie surf', 'modern alternative rock', 'modern dream pop', 'modern rock', 'neo-psychedelic', 'nu gaze', 'shoegaze']",Shoegaze Classics,0.552,0.851,2,-6.229,1,0.033,0.00143,0.774,0.131,0.938,154.962
+6uJKEvWD4zKL8PGwadftFv,Cary Morin,When the Levee Breaks (feat. Jean Jacques Milteau),"['acoustic blues', 'native american contemporary']",Acoustic Blues,0.73,0.211,0,-12.914,1,0.0497,0.872,0.19,0.116,0.76,104.472
+34qQbgaC4xeXyi8JmC8zki,H.E.A.T,Rise - Kenny Leckremo Version,"['glam metal', 'hard rock', 'melodic hard rock', 'nightrun', 'sleaze rock', 'swedish melodic rock']",Hard Rock,0.496,0.947,2,-2.332,1,0.0555,0.000148,0.000201,0.366,0.328,105.006
+7zQk8n4NEL0YiooP4AByeO,Temple Balls,Thunder from the North,"['finnish hard rock', 'finnish metal', 'modern hard rock', 'nwocr']",Hard Rock,0.44,0.988,8,-3.46,0,0.0482,1.52e-05,0.389,0.0757,0.664,166.041
+6Mbm86B4joMLyCncLCESCG,Digable Planets,Dog It,"['afrofuturism', 'alternative hip hop', 'east coast hip hop', 'hardcore hip hop', 'hip hop', 'jazz rap', 'psychedelic hip hop', 'rap']",Jazz Rap,0.901,0.361,11,-14.2,0,0.268,0.261,0.704,0.0598,0.514,92.118
+5MkrRoxmtqXc5OMDLIpF2J,Kat Duma,System,[],Lo-fi Indie,0.621,0.57,9,-9.506,0,0.0275,0.328,0.807,0.0738,0.348,102.003
+1x3h4Gt8q5lr3lCr9DwW40,Krosis,Battles Are Won Within,"['deathcore', 'north carolina metal', 'progressive deathcore', 'technical death metal']",Deathcore,0.526,0.931,0,-6.549,0,0.0854,8.73e-05,0.0271,0.138,0.223,107.496
+7FEWI4TMXlzNIqvREwIhHd,Brand of Sacrifice,Lifeblood,"['deathcore', 'progressive deathcore', 'slamming deathcore']",Deathcore,0.239,0.987,1,-4.496,0,0.189,0.000443,0.0,0.465,0.255,154.203
+5tTY2O3xbKUzk5A7vJluxW,ØZWALD,Mt. Hood,[],Lo-fi Indie,0.57,0.83,0,-7.992,1,0.0614,0.0725,0.015,0.176,0.735,117.05
+1vv1iEw58OHt0juBWVgoTJ,Jhana Boy,Better Than Heaven,[],Lo-fi Indie,0.582,0.643,4,-6.512,1,0.0262,0.15,0.000254,0.183,0.322,82.506
+7isrQebvzBb95uOCS9fleS,Lush,Thoughtforms - 2nd Version,"['alternative pop', 'alternative rock', 'britpop', 'dream pop', 'ethereal wave', 'new wave', 'noise pop', 'nu gaze', 'shoegaze']",Shoegaze Classics,0.363,0.872,11,-9.103,0,0.048,0.0743,0.929,0.231,0.238,105.06
+4fkZH24rb2m6ocd1uDnjlH,Riverside,We Got Used To Us,"['art rock', 'neo-progressive', 'polish prog', 'prog metal', 'progressive metal', 'progressive rock', 'symphonic rock']",Metal Ballads,0.562,0.444,7,-11.08,0,0.0273,0.443,0.0108,0.0943,0.205,140.035
+37uZicD5MGyg0YqEi7MNk6,Izo FitzRoy,When the Wires Are Down - Kraak & Smaak Remix,"['funk', 'neo soul', 'retro soul']",Retro Pop,0.698,0.524,7,-7.873,0,0.0299,0.0941,0.00729,0.0442,0.5,78.011
+3cC4TINErPyxCWtSN9w32h,Nubiyan Twist,Figure Numatic,"['indie jazz', 'indie soul', 'uk contemporary jazz']",Jazz Rap,0.76,0.675,5,-6.276,1,0.0745,0.189,0.0203,0.109,0.417,97.021
+5vHyWEoEyIJT5RhR1fcN7y,Def Leppard,Too Late For Love,"['album rock', 'hard rock', 'nwobhm', 'rock']",Metal Ballads,0.536,0.812,4,-7.379,0,0.0441,0.00306,0.000455,0.116,0.338,94.677
+6tjKpMR5jdN2WZL13Y65vA,CABAL,Innocent Blood (feat. Jason Evans),"['blackened deathcore', 'danish hardcore', 'danish metal', 'deathcore', 'progressive deathcore']",Deathcore,0.547,0.955,0,-6.288,1,0.122,7.57e-06,0.949,0.395,0.303,119.998
+6rtk6mHmKn7RjKTvOyVQ3C,Junkyard Drive,Let It Burn,"['modern hard rock', 'nwocr']",Hard Rock,0.367,0.856,1,-11.546,1,0.065,6.98e-05,0.00609,0.0492,0.322,167.849
+1wv5JHXkjjtAm7CwADyOot,Thom Southern,everything i wanted,[],Lo-fi Indie,0.528,0.766,9,-7.525,1,0.0353,0.0249,0.413,0.352,0.403,127.017
+6t1ahr2f1t9iSjjNFwFb4C,Tash Sultana,Jungle,['australian reggae fusion'],Acoustic Hits,0.589,0.699,1,-5.883,0,0.0291,0.285,8.11e-05,0.0881,0.496,145.997
+4AF9tkZUxzpvTz8FfJ61ZS,Prides,A Wilder Heart - Acoustic,[],Acoustic Hits,0.44,0.339,0,-8.191,1,0.0381,0.672,0.0,0.0933,0.353,110.063
+4NcYRApZOUk4Y9vBSlFiZd,Hypocrisy,Slippin' Away,"['black metal', 'death metal', 'melodic death metal', 'metal', 'swedish death metal', 'swedish melodeath', 'swedish metal']",Metal Ballads,0.364,0.565,7,-8.793,0,0.0315,0.0005,0.289,0.254,0.0583,121.285
+7v7tFiNePGwLOrB2tAW3kg,The Roots,Mellow My Man,"['alternative hip hop', 'conscious hip hop', 'east coast hip hop', 'hardcore hip hop', 'hip hop', 'indie r&b', 'neo soul', 'philly rap', 'political hip hop', 'southern hip hop']",Jazz Rap,0.78,0.422,11,-9.745,0,0.32,0.00678,0.0,0.499,0.587,91.482
+0qxYx4F3vm1AOnfux6dDxP,Paul Simon,You Can Call Me Al,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'permanent wave', 'rock', 'roots rock', 'singer-songwriter', 'soft rock']",Yacht Rock,0.776,0.763,5,-8.124,1,0.0534,0.182,0.00647,0.077,0.82,128.433
+0GkM9T6C7nzkgWUbK7E2cd,Joe Louis Walker,Going To Canada,"['blues', 'blues rock', 'electric blues', 'modern blues', 'modern blues rock']",Acoustic Blues,0.536,0.417,11,-13.785,0,0.123,0.72,0.00478,0.312,0.758,95.997
+1p361c2De6f2tVGmYLZESy,Carter Reeves,"Tell Me, Laurel",[],Lo-fi Indie,0.695,0.481,9,-6.172,1,0.0304,0.783,0.0529,0.0757,0.502,115.933
+0wFbtW0tc8ux6Y8Tx23J4z,The Silhouettes Project,What U Need,"['indie r&b', 'uk alternative hip hop']",Jazz Rap,0.596,0.487,6,-13.433,1,0.0765,0.376,0.00928,0.0931,0.125,108.925
+7uLrf2TyeptKCxsAVRIsXi,Buckshot LeFonque,Breakfast At Denny's,['jazz rap'],Jazz Rap,0.76,0.65,7,-9.233,1,0.189,0.00805,0.524,0.0772,0.581,87.433
+597Y3BuDQVYDII5LSBYLT6,Brand of Sacrifice,Demon King,"['deathcore', 'progressive deathcore', 'slamming deathcore']",Deathcore,0.484,0.987,7,-4.621,1,0.182,0.000212,0.0,0.338,0.195,125.032
+6xtJxtnu4IWDMOn824Dd7i,Guru,Insert A (Mental Relaxation)/Medicine,"['alternative hip hop', 'boston hip hop', 'east coast hip hop', 'hardcore hip hop', 'hip hop']",Jazz Rap,0.728,0.481,6,-13.32,1,0.179,0.088,2.87e-05,0.309,0.652,82.944
+5PCBKeKNT9DAmsE7alon1M,John Stewart,Gold,[],Yacht Rock,0.692,0.598,9,-7.893,0,0.0373,0.464,1.19e-06,0.0926,0.519,124.043
+1fvlJQrm3yoN2TpKH5FgiR,Bruce Dickinson,Tears of the Dragon - 2001 Remastered Version,"['album rock', 'hard rock', 'metal', 'power metal', 'rock']",Metal Ballads,0.496,0.62,4,-7.458,0,0.0265,0.00386,1.47e-06,0.114,0.279,140.06
+3HZKBjeOyPZo2DLRIz6Ikr,DijahSB,New Harrison,['indie hip hop'],Jazz Rap,0.697,0.484,1,-7.398,1,0.4,0.82,0.0,0.102,0.32,82.629
+78dflnXmmb9kBDNk7XIdYn,Deathbeds AU,A Night in Hell,['australian metalcore'],Deathcore,0.396,0.968,3,-4.322,1,0.131,5.49e-05,0.494,0.263,0.178,161.021
+1XfydTBaDChT4J9K4bng5L,Spirea X,Chlorine Dream,['dream pop'],Shoegaze Classics,0.441,0.532,9,-13.569,1,0.0333,3.4e-05,0.603,0.252,0.408,103.67
+6J3HNhDBIwEX11bX8hzx5u,Black Pumas,Colors,['retro soul'],Retro Pop,0.546,0.696,4,-6.537,1,0.0335,0.0887,1.84e-05,0.195,0.596,89.882
+40rjypnguxfhPy4Bbv5SWc,Langhorne Slim,The Way We Move,"['anti-folk', 'deep new americana', 'indie folk', 'indie pop', 'modern folk rock', 'new americana', 'stomp and holler']",Retro Pop,0.539,0.836,11,-5.365,1,0.0654,0.217,0.000168,0.303,0.759,135.596
+2RQbHBSGpU3CmkHUBEWIYJ,pinkpirate,Laying out Your Web,[],Lo-fi Indie,0.306,0.0862,2,-19.45,1,0.0407,0.981,0.00857,0.105,0.108,82.585
+6GXbpne1EKdVlYhFazWFs4,Son Little,O Me O My,"['funk', 'indie soul', 'soul']",Acoustic Hits,0.807,0.63,9,-8.401,0,0.046,0.0589,0.000128,0.104,0.404,127.969
+0d0ECn7EN2uaczZyPSvbyx,Defamed,In Tenebris,['progressive deathcore'],Deathcore,0.263,0.957,1,-4.867,1,0.149,0.00126,0.864,0.0756,0.151,179.512
+3ArBqpsJ4pyrnKtHZYl6ZJ,Bobby Rush,Down in Mississippi,"['electric blues', 'modern blues', 'soul blues', 'southern soul', 'southern soul blues']",Acoustic Blues,0.728,0.193,11,-13.011,0,0.0572,0.786,2.14e-05,0.134,0.512,117.568
+2s5QYW4Ls3GsxWKhEKGraJ,John Smith,Save My Life - Radio Edit,"['british singer-songwriter', 'indie folk', 'liverpool indie', 'new americana']",Acoustic Hits,0.583,0.235,6,-10.121,1,0.0287,0.778,0.0,0.187,0.368,137.829
+4CwgOt8rqXn4t9wOQB6Lej,cehryl,angels (emily),"['bedroom soul', 'chill r&b']",Lo-fi Indie,0.516,0.318,4,-9.757,1,0.028,0.545,0.0213,0.0776,0.192,85.89
+2o8VHDVneLnrVIw9IJht9Y,L.A. Sunday,Pillars,[],Lo-fi Indie,0.696,0.319,8,-16.729,0,0.0624,0.502,0.0237,0.116,0.382,144.024
+24d3VWoefNmKBRpOS1Le4d,Flatpocket,One from the Tap,['jazz boom bap'],Jazz Rap,0.613,0.491,3,-10.315,1,0.142,0.871,0.175,0.116,0.225,81.327
+5QFjj6J74u9h0SnzBKziMu,Flyying Colours,It's Tomorrow Now,"['american shoegaze', 'australian shoegaze', 'garage psych', 'nu gaze', 'shoegaze']",Shoegaze Classics,0.225,0.865,9,-6.572,1,0.0919,4.91e-06,0.125,0.579,0.197,99.368
+4pTkNkfB5hxxHxhX1cVles,The Lumineers,Angela (Single Version),"['folk-pop', 'modern rock', 'stomp and holler']",Acoustic Hits,0.652,0.601,4,-7.988,1,0.0317,0.625,0.000165,0.17,0.302,130.308
+3PSMcb1gU5A8DveqU2K4z2,John Mayer,Slow Dancing in a Burning Room - Acoustic,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",Acoustic Hits,0.611,0.313,4,-10.242,1,0.0339,0.835,0.000315,0.111,0.378,134.858
+5VkonixvlrVyNjADeOYd8g,my bloody valentine,Lose My Breath,"['alternative rock', 'art rock', 'dream pop', 'noise pop', 'nu gaze', 'rock', 'shoegaze']",Shoegaze Classics,0.391,0.651,6,-11.523,1,0.0266,0.000512,0.841,0.0954,0.402,92.124
+4At0MWVAHHBKyOBkyqWg3V,The Blue Stones,Spirit,"['modern alternative rock', 'modern blues rock', 'modern hard rock', 'modern rock', 'rock', 'windsor on indie']",Hard Rock,0.574,0.764,2,-7.275,1,0.0398,0.00535,0.0356,0.0731,0.465,110.985
+6pUiAvxiq8jdukDY8X0H8K,Nick Waterhouse,This Is A Game,"['chicago indie', 'funk']",Retro Pop,0.679,0.789,0,-8.184,1,0.0414,0.292,0.000562,0.108,0.962,164.345
+1vvUJRVvs5XurGvVpj9i5B,Austin Meade,Happier Alone,"['red dirt', 'roots americana', 'texas country']",Hard Rock,0.532,0.833,8,-6.556,1,0.0357,0.00195,0.0,0.0764,0.429,99.989
+0bhSj3xSQFNcKvzH6r6tPp,TheColorGrey,Out Of My Hands (feat. Oddisee),"['belgian hip hop', 'belgian pop']",Jazz Rap,0.553,0.611,9,-8.233,0,0.266,0.31,0.000112,0.0745,0.631,79.803
+6eEYGGFfFbtKHCgJM4uh9v,Ozzy Osbourne,Ordinary Man (feat. Elton John),"['album rock', 'birmingham metal', 'hard rock', 'metal', 'rock']",Metal Ballads,0.428,0.599,4,-2.135,1,0.0286,0.0665,9.86e-06,0.137,0.134,125.83
+7EqkvBTdhYPTd91mN2DmcA,Opeth,Burden,"['alternative metal', 'metal', 'progressive death metal', 'progressive metal', 'rock', 'swedish metal', 'swedish progressive metal']",Metal Ballads,0.313,0.631,2,-7.734,0,0.0395,0.0525,0.0833,0.184,0.184,119.972
+0oQUU3k7p6EtFmIypL7Z9D,White Void,The Shovel and the Cross,[],Hard Rock,0.393,0.85,9,-11.458,0,0.0545,0.000473,0.282,0.339,0.344,130.082
+7rphDmPtaLsPMLxxtc7nQY,Eric Bibb,With My Maker I Am One,"['acoustic blues', 'blues', 'country blues', 'electric blues', 'modern blues', 'piedmont blues']",Acoustic Blues,0.791,0.213,3,-11.154,0,0.0479,0.773,2.39e-05,0.12,0.597,97.95
+2C0Y5RUvreuiElhHuce9Rv,Handsome Boy Modeling School,The Truth,"['alternative hip hop', 'hip hop', 'turntablism']",Jazz Rap,0.7,0.393,2,-10.88,1,0.0471,0.6,6.08e-06,0.113,0.477,79.638
+1rptK1oec3gjHpzzrxHyln,Sixx:A.M.,"Maybe It’s Time (feat. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext)","['alternative metal', 'nu metal', 'post-grunge']",Metal Ballads,0.396,0.781,0,-5.148,1,0.0377,0.00158,0.0,0.185,0.201,145.06
+5tbz0VnVwfF3jubvjDGdHo,fun.,We Are Young (feat. Janelle Monáe) - Acoustic [Acoustic],"['baroque pop', 'metropopolis', 'modern rock', 'pop', 'pop rock']",Acoustic Hits,0.445,0.296,5,-7.091,1,0.0419,0.815,0.0,0.0562,0.289,169.331
+4Dr5E6cgmQ484OQMDCZ7z0,Ulrich Schnauss,On My Own - 2019 remaster,"['ambient', 'electronica', 'german electronica', 'indietronica', 'intelligent dance music', 'nu gaze', 'shoegaze']",Shoegaze Classics,0.398,0.664,11,-10.003,1,0.0393,0.0923,0.948,0.359,0.19,139.861
+6qDDv9vMjxxmhc4Jqh8nbL,Matt Andersen,Quarter On The Ground ( A Song For Uncle Joe),"['canadian blues', 'canadian folk', 'canadian singer-songwriter']",Acoustic Blues,0.69,0.21,9,-8.531,1,0.0718,0.763,0.0,0.325,0.49,68.851
+3fJWw5Od5tGvKlyh02jLib,Ov Sulfur,Bathe in the Flame,[],Deathcore,0.445,0.995,6,-3.79,1,0.134,0.00209,0.000214,0.228,0.0363,129.971
+21tzl7QqFs2UJwaGQpwtCk,Lee Fields,Let a Man Do What He Wanna Do,"['funk', 'southern soul']",Retro Pop,0.845,0.743,9,-7.445,0,0.0931,0.0799,0.00209,0.694,0.956,112.493
+1WYokrkFOb9TFVuTrmxTTt,Eagles,Tequila Sunrise - 2013 Remaster,"['album rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",Yacht Rock,0.632,0.397,7,-12.855,1,0.0265,0.536,0.0421,0.106,0.731,110.578
+5nrA9SFOvJSmQzvxhZNY4K,Death Angel,Volcanic,"['death metal', 'hard rock', 'metal', 'old school thrash', 'thrash metal']",Metal Ballads,0.647,0.338,4,-11.307,0,0.0308,0.726,1.16e-06,0.0952,0.502,86.836
+2v3WzIlu2VD9HtNbljqkpj,Walter Egan,Magnet and Steel,['soft rock'],Yacht Rock,0.768,0.331,1,-14.248,0,0.0321,0.653,2.89e-05,0.0943,0.52,114.037
+41Az1BCotlAUt7Ud8k6H2Y,Jack Johnson,Sunsets For Somebody Else,['neo mellow'],Acoustic Hits,0.696,0.229,7,-7.911,1,0.0331,0.828,1.34e-05,0.152,0.603,113.273
+43btz2xjMKpcmjkuRsvxyg,John Mellencamp,Jack & Diane,"['album rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock', 'mellow gold', 'pop rock', 'rock', 'singer-songwriter', 'soft rock']",Yacht Rock,0.811,0.41,9,-8.214,1,0.0391,0.0365,6.63e-06,0.0799,0.626,103.965
+7wWw7hBmErNg9u5w6Xx0vy,Bread,Make It with You,"['adult standards', 'folk', 'folk rock', 'mellow gold', 'soft rock']",Yacht Rock,0.629,0.356,4,-11.135,1,0.0246,0.66,0.000617,0.173,0.472,83.886
+6nswV1Lz3OZkaiCJfmVUOa,Metallica,The Unforgiven II,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",Metal Ballads,0.497,0.89,8,-4.559,0,0.0445,0.00055,0.00129,0.255,0.249,133.047
+69i3nyK548fDkxA22Kk0BL,Depths of Hatred,Fastidious Imitation,"['brutal deathcore', 'deathcore', 'progressive deathcore', 'technical death metal']",Deathcore,0.433,0.971,1,-5.083,0,0.111,2.15e-05,0.0256,0.372,0.146,114.922
+0ofHAoxe9vBkTCp2UQIavz,Fleetwood Mac,Dreams - 2004 Remaster,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",Yacht Rock,0.828,0.492,0,-9.744,1,0.0276,0.0644,0.00428,0.128,0.789,120.151
+4bUbgl5yiMEfGFy8CQNnXB,Shinedown,How Did You Love - Acoustic,"['alternative metal', 'modern rock', 'nu metal', 'post-grunge']",Acoustic Hits,0.52,0.457,2,-7.877,0,0.0364,0.137,0.0,0.102,0.61,185.945
+77QvKUhVeyPVVHGFRgAmQd,Guru,Feel The Music,"['alternative hip hop', 'boston hip hop', 'east coast hip hop', 'hardcore hip hop', 'hip hop']",Jazz Rap,0.774,0.601,1,-10.588,0,0.118,0.0241,0.00312,0.285,0.854,100.357
+2esnC3sEMqLfQvF4qaCJfA,Steve Hill,Slowly Slipping Away,['one-person band'],Acoustic Blues,0.384,0.444,7,-9.02,1,0.0345,0.311,0.000449,0.127,0.663,177.42
+2kBVTplPtDRx0sqXWtTYOh,The Guild,Heir to the Serpent,['tennessee metal'],Deathcore,0.227,0.982,2,-4.534,1,0.135,0.000306,0.00275,0.13,0.0576,110.05
+55Z8UeiGPWq7m5DXxi1uPm,Uly,i don't need to understand,['irish indie'],Lo-fi Indie,0.737,0.302,4,-17.692,1,0.0425,0.814,0.878,0.366,0.688,91.018
+2QOB5UiRKggr2j9uMD3GYK,Jon Batiste,FREEDOM,['new orleans jazz'],Retro Pop,0.873,0.651,1,-4.179,1,0.0374,0.0251,0.000107,0.213,0.828,115.002
+6hci8n9UowepjRmCc6CKTv,Rockwell,Somebody's Watching Me - Single Version,[],Yacht Rock,0.773,0.505,1,-10.357,0,0.0329,0.103,0.000138,0.0729,0.891,124.131
+7bMILlavccKPd3rIR8rsrQ,Thunder,Last One Out Turn Off the Lights,"['album rock', 'glam metal', 'hard rock', 'modern hard rock']",Hard Rock,0.338,0.932,0,-4.408,1,0.0548,1.44e-05,0.0229,0.274,0.729,180.115

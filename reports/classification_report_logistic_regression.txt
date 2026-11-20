@@ -1,0 +1,18 @@
+Logistic Regression
+
+                   precision    recall  f1-score   support
+
+   Acoustic Blues       0.81      0.81      0.81        16
+    Acoustic Hits       0.71      0.56      0.62        18
+        Deathcore       0.91      1.00      0.95        20
+        Hard Rock       0.88      0.74      0.80        19
+         Jazz Rap       0.75      0.63      0.69        19
+      Lo-fi Indie       0.50      0.68      0.58        19
+    Metal Ballads       0.90      0.90      0.90        20
+        Retro Pop       0.74      0.94      0.83        18
+Shoegaze Classics       0.94      0.89      0.92        19
+       Yacht Rock       0.94      0.79      0.86        19
+
+         accuracy                           0.80       187
+        macro avg       0.81      0.79      0.80       187
+     weighted avg       0.81      0.80      0.80       187

@@ -1,0 +1,18 @@
+RBF SVM
+
+                   precision    recall  f1-score   support
+
+   Acoustic Blues       0.60      0.75      0.67        16
+    Acoustic Hits       0.67      0.56      0.61        18
+        Deathcore       0.95      0.95      0.95        20
+        Hard Rock       0.80      0.84      0.82        19
+         Jazz Rap       0.87      0.68      0.76        19
+      Lo-fi Indie       0.55      0.63      0.59        19
+    Metal Ballads       0.94      0.85      0.89        20
+        Retro Pop       0.65      0.83      0.73        18
+Shoegaze Classics       0.89      0.89      0.89        19
+       Yacht Rock       0.93      0.74      0.82        19
+
+         accuracy                           0.78       187
+        macro avg       0.79      0.77      0.77       187
+     weighted avg       0.79      0.78      0.78       187
